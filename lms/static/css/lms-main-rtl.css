@@ -7788,7 +7788,8 @@ section.unsubscribe.outside-app .message,
     background-color: rgba(54, 47, 45, .4);
     padding: 20px 30px;
     min-height: 120px;
-    vertical-align: top
+    vertical-align: top;
+    margin-right: 0%
 }
 
 .home>header .title:last-child {
@@ -7798,39 +7799,6 @@ section.unsubscribe.outside-app .message,
 .home>header .title:hover .actions,
 .home>header .title:focus .actions {
     display: none
-}
-
-@media screen and (min-width: 541px) and (max-width: 768px) {
-    .home>header .title {
-        float: right;
-        display: block;
-        margin-left: 3.57866%;
-        width: 74.10533%;
-        margin-right: 12.94733%
-    }
-    .home>header .title:last-child {
-        margin-left: 0
-    }
-}
-
-@media screen and (min-width: 321px) and (max-width: 540px) {
-    .home>header .title {
-        width: 100%;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        margin-right: 0%
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .home>header .title {
-        width: 100%;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        margin-right: 0%
-    }
 }
 
 .home>header .title>hgroup {
