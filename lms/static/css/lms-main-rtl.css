@@ -5168,7 +5168,13 @@ button.disabled,
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li {
     float: right;
-    margin-right: 15px
+    margin-right: 15px;
+	color: #0078b0
+}
+
+.wrapper-footer footer#footer-openedx .colophon .nav-colophon li::before {
+    content: "|";
+	color: #0078b0
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li a {
