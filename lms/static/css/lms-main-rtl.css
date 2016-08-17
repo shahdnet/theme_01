@@ -5572,9 +5572,9 @@ footer#footer-edx-v3 .app-link img {
 }
 
 header.global {
-    border-bottom: 1px solid #919191;
+    border-bottom: 1px solid #74551F;
     box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
-    background: #fa0000;
+    background: #EFB959;
     position: relative;
     width: 100%;
     height: 76px
