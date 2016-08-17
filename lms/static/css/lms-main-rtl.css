@@ -27660,3 +27660,6 @@ button.close-modal:focus {
     box-shadow: none;
     text-shadow: none
 }
+#nothing{
+	border:none;
+}
