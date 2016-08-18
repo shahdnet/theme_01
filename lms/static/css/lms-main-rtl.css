@@ -13416,7 +13416,7 @@ section.outside-app .course-info .details h1 {
 .course-info .course-sidebar .important-dates li .icon {
     float: right;
     padding: 1px;
-    margin: 4px 0 0 10px;
+    margin-left: 10px;
     opacity: .6
 }
 
