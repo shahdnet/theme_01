@@ -13409,19 +13409,19 @@ section.outside-app .course-info .details h1 {
 
 .course-info .course-sidebar .important-dates li .important-dates-item-title {
     color: #646464 #3c3c3c;
-    float: left;
+    float: right;
     font-family: "Comic Sans", "Comic Sans MS"
 }
 
 .course-info .course-sidebar .important-dates li .icon {
-    float: left;
+    float: right;
     padding: 1px;
-    margin: 4px 10px 0 0;
+    margin: 4px 0 0 10px;
     opacity: .6
 }
 
 .course-info .course-sidebar .important-dates li .important-dates-item-text {
-    float: right;
+    float: left;
     font-weight: 700
 }
 
