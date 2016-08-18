@@ -7794,7 +7794,6 @@ section.unsubscribe.outside-app .message,
     -moz-transition: all 0.2s linear 0s;
     transition: all 0.2s linear 0s;
     position: relative;
-    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.5);
     background-color: rgba(54, 47, 45, .4);
     padding: 20px 30px;
     min-height: 120px;
